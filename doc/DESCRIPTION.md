@@ -1,1 +1,1 @@
-This is a dummy description of this app features
+TwentyCRM is an open-source CRM with a modern, collaborative workspace for managing contacts, companies, and deals.
